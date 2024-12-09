@@ -1,1 +1,1 @@
-
+Event Loop, асинхронность в JavaScript, Promise
